@@ -1,5 +1,35 @@
 # @gitbook/api
 
+## 0.71.0
+
+### Minor Changes
+
+-   788cc8a: Bump GitBook API to most recent version.
+
+## 0.70.0
+
+### Minor Changes
+
+-   fa8e361: Bump the gitbook API
+
+## 0.69.0
+
+### Minor Changes
+
+-   6df6ac5: Update the API client with the latest OpenAPI specification
+
+## 0.68.0
+
+### Minor Changes
+
+-   33e8900: Update the API client with the latest OpenAPI specification
+
+## 0.67.0
+
+### Minor Changes
+
+-   597ba64: Bump @gitbook/api to use the latest OpenAPI spec
+
 ## 0.66.0
 
 ### Minor Changes
